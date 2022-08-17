@@ -1,4 +1,4 @@
-Module 2 Challenge| Homework Assignment: Automate Your Day Job with Python
+## Module 2 Challenge: Automate Your Day Job with Python
 
 ## Background
 
